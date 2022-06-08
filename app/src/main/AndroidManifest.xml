@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.doctor_app">
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="DOCTOR APP"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DOCTOR_APP">
+        <activity
+            android:name=".help_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".complain_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_text_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".textDoctor_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Notification_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Privacy_policy_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ContactUs_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".About_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".doctor_details_activity"
+            android:exported="false" />
+        <activity
+            android:name=".Profile_activity"
+            android:exported="false" />
+        <activity
+            android:name=".Specialist_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Custom_navigation_activity"
+            android:exported="false" />
+        <activity
+            android:name=".see_more_activity"
+            android:exported="false" />
+        <activity
+            android:name=".Feedback_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Sending_Message_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Setting_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard_Activity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".Congratulate_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="DOCTOR APP">
+
+            <!-- android:theme="@style/Theme.AppCompat.NoActionBar" -->
+
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

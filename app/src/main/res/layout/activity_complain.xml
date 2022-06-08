@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".complain_Activity"
+    android:background="@drawable/bgall">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:onClick="homehandle"
+            android:padding="14dp"
+            android:src="@drawable/previous" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Complain Area"
+            android:textColor="@color/dark_black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <EditText
+                android:id="@+id/msgContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="25dp"
+                android:background="#ffffff"
+                android:drawableLeft="@drawable/ic_baseline_email_24"
+                android:drawablePadding="20dp"
+                android:hint="Write your complain here"
+                android:inputType="textMultiLine"
+                android:lines="8"
+                android:textColor="@color/dark_black"
+                android:maxLines="10"
+                android:minLines="6"
+                android:textColorHint="@color/dark_black"
+                android:padding="18dp"
+                android:scrollbars="vertical" />
+            <Button
+                android:id="@+id/btnSendSMS"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="Send message"
+                android:onClick="sendMsg"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:backgroundTint="@color/red"
+                android:padding="12dp"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

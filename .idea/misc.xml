@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/arrow_back.xml" value="0.1675" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/arrow_forwad.xml" value="0.129" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/button_bg.xml" value="0.1465" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/button_border.xml" value="0.1345" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/customer_button.xml" value="0.1345" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/light_puple_bg.xml" value="0.155" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/night_mode_icon.xml" value="0.108" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/phone.xml" value="0.1365" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/round_back__night_mode.xml" value="0.108" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/round_back_notification.xml" value="0.108" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/round_back_privacy.xml" value="0.108" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/round_back_private.xml" value="0.108" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/round_back_secondary.xml" value="0.108" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/round_back_white.xml" value="0.108" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/stroke_btn.xml" value="0.1345" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/tick.xml" value="0.1465" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/top_button_background.xml" value="0.1465" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/white_background.xml" value="0.1465" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/drawable/white_edittext.xml" value="0.155" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_complain.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_congratulate.xml" value="0.2359375" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_contact_us.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_custom_navigation.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_doctor_details.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_doctor_text.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_feedback.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_help.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_main2.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_notification.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_privacy_policy.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_see_more.xml" value="0.33" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_sending_message.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_setting.xml" value="0.22" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_specialist.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_text_doctor.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/activity_win_layout.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/header.xml" value="0.25" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/viewholder.xml" value="0.221875" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/viewholder2.xml" value="0.221875" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/layout/win_layout.xml" value="0.22083333333333333" />
+        <entry key="..\:/ANDROID LESSON/DOCTOR_APP/app/src/main/res/menu/main_menu.xml" value="0.22083333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DOCTOR_APP</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string-array name="languages">
+        <!--            <iterm>@string/Select_Categories</iterm>-->
+        <!--            <iterm>@string/Heart_attack</iterm>-->
+        <!--            <iterm>@string/Cancer</iterm>-->
+        <!--            <iterm>@string/Foot_injury</iterm>-->
+        <!--            <iterm>@string/Eyes_problem</iterm>-->
+    </string-array>
+</resources>
